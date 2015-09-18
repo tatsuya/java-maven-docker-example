@@ -18,6 +18,13 @@ $ docker run cli
 Hello world!
 ```
 
+You can also specify command line argument.
+
+```
+$ docker run cli there
+Hello there!
+```
+
 ## http-server
 
 Building an image is done by same command above.
